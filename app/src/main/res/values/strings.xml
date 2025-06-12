@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BelajarTTS3</string>
+    <string name="input_title">Input Data Mahasiswa</string>
+    <string name="profile_title">Profil Mahasiswa</string>
+    <string name="about_title">Tentang Aplikasi</string>
+    <string name="detail_title">Detail Mahasiswa</string>
+
+    <string name="hint_name">Nama Lengkap</string>
+    <string name="hint_nim">NIM</string>
+    <string name="hint_jurusan">Jurusan</string>
+    <string name="hint_semester">Semester</string>
+
+    <string name="btn_submit">Submit</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_detail">Detail</string>
+
+    <string name="error_empty_name">Nama tidak boleh kosong</string>
+    <string name="error_empty_nim">NIM tidak boleh kosong</string>
+    <string name="error_empty_jurusan">Jurusan tidak boleh kosong</string>
+    <string name="error_empty_semester">Semester tidak boleh kosong</string>
+
+    <string name="success_save">Data berhasil disimpan!</string>
+    <string name="share_title">Bagikan profil via</string>
+</resources>
