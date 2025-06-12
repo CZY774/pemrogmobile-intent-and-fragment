@@ -33,7 +33,7 @@ Aplikasi Android sederhana untuk mengelola profil mahasiswa yang dibuat mengguna
 1. **Clone repository**
    ```bash
    git clone https://github.com/czy774/pemrogmobile-intent-and-fragment.git
-   cd student-profile-app
+   cd pemrogmobile-intent-and-fragment
    ```
 
 2. **Open in Android Studio**
